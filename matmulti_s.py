@@ -9,7 +9,7 @@ import numpy as np
 import time
 
 #Nastavimo velikost matrike
-N = 1000
+N = 4000
 
 #Ustvarimo A in B matriki
 np.random.seed(1)  #za ponovljivost

@@ -36,7 +36,7 @@ def main():
     size = comm.Get_size()
 
     #Velikost matrik
-    N = 1000
+    N = 4000
 
     rows_per_proc = N // size
 
